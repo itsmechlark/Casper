@@ -1,0 +1,18 @@
+body {
+    background: #000;
+    font-family: 'Roboto', sans-serif;
+}
+
+.site-description {
+    max-width: 500px;
+}
+
+.rss-button,
+.social-link {
+    font-size: 18px;
+}
+
+.rss-button:hover,
+.social-link:hover {
+    text-decoration: none;
+}
